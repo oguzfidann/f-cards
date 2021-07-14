@@ -1,2 +1,2 @@
 # f-cards
-cards
+footballer cards
